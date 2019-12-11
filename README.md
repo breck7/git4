@@ -10,6 +10,7 @@ Your .git/ folder becomes simpler, more understandable, and more accessible for 
 - https://stevebennett.me/2012/02/24/10-things-i-hate-about-git/
 - https://nextjournal.com/blog/git
 - https://github.com/git-up/GitUp
+- https://tonsky.me/blog/reinventing-git-interface/
 
 ## Books
 
