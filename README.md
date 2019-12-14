@@ -12,6 +12,9 @@ Your .git/ folder becomes simpler, more understandable, and more accessible for 
 - https://github.com/git-up/GitUp
 - https://tonsky.me/blog/reinventing-git-interface/
 - https://gitless.com/
+- http://www.saintsjd.com/2012/01/a-better-ui-for-git/
+- https://github.com/jesseduffield/lazygit
+- https://gist.github.com/johnpolacek/69604a1f6861129ef088
 
 ## Books
 
