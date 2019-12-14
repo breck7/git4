@@ -11,6 +11,7 @@ Your .git/ folder becomes simpler, more understandable, and more accessible for 
 - https://nextjournal.com/blog/git
 - https://github.com/git-up/GitUp
 - https://tonsky.me/blog/reinventing-git-interface/
+- https://gitless.com/
 
 ## Books
 
